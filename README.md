@@ -100,3 +100,5 @@ The more specific you are with your questions the more likely it is that another
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
 **Have fun building!** 🚀
+
+## [FIGMA](https://www.figma.com/file/jrojmCLtIKy6rkW7auyFZ1/dictionary-web-app?type=design&node-id=0%3A165&mode=design&t=ocqtSHbldqWq5Am3-1)
